@@ -1,5 +1,4 @@
 # Protfolio
-That's my portfolio.
+That's my old portfolio.
 
-There I will share my small projects.
-Programs will be commented using Polish or English language.
+Programs are commented using Polish or English language.
